@@ -29,9 +29,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Deployment
 
-## Authors
-
-👤 **Author1**
+👤 **sameh tantawy**
 
 - GitHub: [@githubhandle](https://https://github.com/sameh080081)
 - Twitter: [@twitterhandle](https://twitter.com/sameh080081)
